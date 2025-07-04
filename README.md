@@ -34,10 +34,10 @@ I’m a developer passionate about **web development**, **UI/UX design**, and **
 
 ## 🧠 Highlighted Projects
 
-- 🎮 [**easiest-game-ever**](https://github.com/RvnZe/easiest-game-ever) — A fun mini browser game built with JavaScript
-- 🔢 [**Heapsort-Algorithm**](https://github.com/RvnZe/Heapsort-Algorithm) — Heap Sort algorithm implementation in Python
-- 📦 [**array-1-dimension**](https://github.com/RvnZe/array-1-dimension) & [**array-2-dimension**](https://github.com/RvnZe/array-2-dimension) — Basic array manipulation in C++
-- 🔄 [**Simple Switch-Case**](https://github.com/RvnZe/contoh-sederhana-Switch-case) — Switch-case structure demo in C++
+- 🔢 [**Heapsort-Algorithm**](https://github.com/RvnZe/Heapsort-Algorithm) — Heap Sort algorithm implementation in Python  
+- 📦 [**array-1-dimension**](https://github.com/RvnZe/array-1-dimension) & [**array-2-dimension**](https://github.com/RvnZe/array-2-dimension) — Basic array manipulation in C++  
+- 🔄 [**Simple Switch-Case**](https://github.com/RvnZe/contoh-sederhana-Switch-case) — Switch-case structure demo in C++  
+- 🤝 [**MPLJJ25-138-KEL-5**](https://github.com/ipaddr/MPLJJ25-138-KEL-5) — A collaborative project focused on backend & database logic (PHP/MySQL), developed as part of a team project with `ipaddr`
 
 ---
 
